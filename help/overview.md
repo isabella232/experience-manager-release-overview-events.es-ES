@@ -6,15 +6,15 @@ exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: 4076daa66fe9653c3d29de2ef3cf187664eae962
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 6%
+ht-degree: 97%
 
 ---
 
-# Actualizaciones de la versión de Adobe Experience Manager as a Cloud Service
+# Actualizaciones del estado de la versión de Adobe Experience Manager as a Cloud Service
 
-Obtenga información general rápida sobre las últimas funciones de Adobe Experience Manager as a Cloud Service. Estos son vídeos cortos, de unos 10 minutos, entregados por el equipo de productos de AEM que comparten los aspectos más destacados de la última versión.
+Obtenga información general rápida sobre las últimas funciones de Adobe Experience Manager as a Cloud Service. Estos son vídeos cortos, de unos 10 minutos, de parte del equipo de productos de AEM que comparten los aspectos más destacados de la última versión.
 
-## Última actualización
+## Última actualización del estado
 
 <table style="max-width: 50%;">
 <tr>
@@ -30,13 +30,13 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
         <em>Publicado el 5 de mayo de 2022 </em>
     </div>
     <p>
-      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Notas de la versión</a>
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es">Notas de la versión</a>
     <p>
   </td>
 </tr>  
 </table>
 
-## Actualizaciones anteriores
+## Actualizaciones del estado anteriores
 
 <table style="max-width: 50%;">
 <tr>
@@ -49,7 +49,7 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
         <strong>Versión | 2022.3.0</strong>
         <br/>
       </a>
-        <em>Publicado el 31 de marzo de 2022 </em>
+        <em>Publicada el 31 de marzo de 2022 </em>
     </div>
     <p>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Notas de la versión</a>
@@ -66,25 +66,25 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
         <strong>Versión | 2022.1.0</strong>
         <br/>
       </a>
-        <em>Publicado el 3 de febrero de 2022 </em>
+        <em>Publicada el jueves, 3 de febrero de 2022 </em>
     </div>
     <p>
-      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2022/release-notes-2022-1-0.html">Notas de la versión</a>
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2022/release-notes-2022-1-0.html?lang=es">Notas de la versión</a>
     <p>
   </td>
   <td>
     <a href="./2021/2021-11-0.md">
-      <img alt="Versión 2021.11.0 de AEMCS" src="./2021/assets/2021-11-0.png" />
+      <img alt="Versión 2021.11.0 de AEM CS" src="./2021/assets/2021-11-0.png" />
     </a>
     <div>
     <a href="./2021/2021-11-0.md">
         <strong>Versión | 2021.11.0</strong>
         <br/>
       </a>
-    <em>Publicado el 16 de diciembre de 2021</em>
+    <em>Publicada el 16 de diciembre de 2021</em>
     </div>
     <p>
-      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2021/release-notes-2021-11-0.html">Notas de la versión</a>
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2021/release-notes-2021-11-0.html?lang=es">Notas de la versión</a>
     <p>
   </td>
 </tr>
