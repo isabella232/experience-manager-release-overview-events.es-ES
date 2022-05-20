@@ -1,6 +1,6 @@
 ---
 source-git-commit: 45b5e3d8839ce08c208eb30eb18c0924ba9564c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '430'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ La forma en que contribuya depende de quién sea y del tipo de cambios que desee
 
 ### Cambios menores
 
-Si está aportando actualizaciones menores porque quiere hacerlo, visite el artículo y haga clic en el vínculo **Editar** del artículo que va a la fuente de GitHub correspondiente. A continuación, utilice la interfaz de usuario de GitHub para realizar sus actualizaciones. Consulte la [Guía de colaborador para la documentación de Adobe](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obtener más información.
+Si está aportando actualizaciones menores porque quiere hacerlo, visite el artículo y haga clic en el vínculo **Editar** del artículo que va a la fuente de GitHub correspondiente. A continuación, utilice la interfaz de usuario de GitHub para realizar sus actualizaciones. Consulte la [Guía de colaborador para la documentación de Adobe](https://docs.adobe.com/content/help/es-es/contributor/contributor-guide/introduction.html) para obtener más información.
 
 Las correcciones o aclaraciones menores que envíe para la documentación y los ejemplos de código de este repositorio están sujetos a las condiciones de uso del Adobe.
 
@@ -43,7 +43,7 @@ Si es un escritor técnico, administrador de programas o desarrollador del equip
 
 Los colaboradores de la comunidad pueden utilizar la interfaz de usuario de GitHub para la edición básica o realizar importantes contribuciones.
 
-Consulte la [Guía de colaborador para la documentación de Adobe](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obtener más información.
+Consulte la [Guía de colaborador para la documentación de Adobe](https://docs.adobe.com/content/help/es-es/contributor/contributor-guide/introduction.html) para obtener más información.
 
 ## Utilizar el código desplegable para dar formato al tema
 
