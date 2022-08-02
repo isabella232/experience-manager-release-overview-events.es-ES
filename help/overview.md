@@ -3,10 +3,10 @@ title: Información general sobre la versión de Adobe Experience Manager as a C
 description: Obtenga información general rápida sobre las últimas funciones de Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
-source-git-commit: 78db7decd3b6283f8a20766e7f8aa4a19adc8a26
-workflow-type: ht
-source-wordcount: '162'
-ht-degree: 100%
+source-git-commit: 6393e1b8d82edca9bf2cbbfeebdd8ac821577a45
+workflow-type: tm+mt
+source-wordcount: '177'
+ht-degree: 97%
 
 ---
 
@@ -20,15 +20,15 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
 <table style="max-width: 50%;">
   <tr>
     <td>
-      <a href="./2022/2022-6-0.md">
-        <img alt="Versión 2022.4.0" src="./2022/assets/2022-6-0-thumb.png" />
+      <a href="./2022/2022-7-0.md">
+        <img alt="Versión 2022.7.0" src="./2022/assets/2022-7-0-thumb.png" />
       </a>
       <div>
-        <a href="./2022/2022-6-0.md">
-          <strong>Versión | 2022.6.0</strong>
-        <br/>
-      </a>
-        <em>Fecha de publicación: 30 de junio de 2022 </em>
+        <a href="./2022/2022-7-0.md">
+          <strong>Versión | 2022.7.0</strong>
+          <br/>
+        </a>
+          <em>Fecha de la versión: 8 de agosto de 2022 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es">Notas de la versión</a>
@@ -41,9 +41,24 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
 
 <table style="max-width: 50%;">
   <tr>
+      <td>
+      <a href="./2022/2022-6-0.md">
+        <img alt="Versión 2022.6.0" src="./2022/assets/2022-6-0-thumb.png" />
+      </a>
+      <div>
+        <a href="./2022/2022-6-0.md">
+          <strong>Versión | 2022.6.0</strong>
+        <br/>
+      </a>
+        <em>Fecha de publicación: 30 de junio de 2022 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Notas de la versión</a>
+      <p>
+    </td>
     <td>
       <a href="./2022/2022-5-0.md">
-        <img alt="Versión 2022.4.0" src="./2022/assets/2022-5-0-thumb.png" />
+        <img alt="Versión 2022.5.0" src="./2022/assets/2022-5-0-thumb.png" />
       </a>
       <div>
         <a href="./2022/2022-5-0.md">
@@ -53,7 +68,7 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
         <em>Fecha de publicación: 9 de junio de 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es">Notas de la versión</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Notas de la versión</a>
       <p>
     </td>  
     <td>
@@ -68,9 +83,11 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
         <em>Publicada el 5 de mayo de 2022</em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es">Notas de la versión</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Notas de la versión</a>
       <p>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="./2022/2022-3-0.md">
         <img alt="Versión 2022.3.0" src="./2022/assets/2022-3-0.png" />
@@ -83,11 +100,9 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
         <em>Publicada el 31 de marzo de 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es">Notas de la versión</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Notas de la versión</a>
       <p>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="./2022/2022-1-0.md">
         <img alt="Versión 2022-1-0" src="./2022/assets/2022-1-0.png" />
