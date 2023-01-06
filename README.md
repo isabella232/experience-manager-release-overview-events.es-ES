@@ -1,7 +1,7 @@
 ---
-source-git-commit: 45b5e3d8839ce08c208eb30eb18c0924ba9564c0
-workflow-type: ht
-source-wordcount: '430'
+source-git-commit: 30023bd31b4d59e273fa257624da3c7934cae2b7
+workflow-type: tm+mt
+source-wordcount: '424'
 ht-degree: 100%
 
 ---
@@ -15,13 +15,13 @@ Este proyecto ha adoptado el [Código de conducta de código abierto de Adobe](c
 
 ## Acerca de sus contribuciones al contenido del Adobe
 
-Consulte la [Guía de colaborador para la documentación de Adobe](https://docs.adobe.com/content/help/es-es/contributor/contributor-guide/introduction.html).
+Consulte la [Guía de colaborador para la documentación de Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=es).
 
 La forma en que contribuya depende de quién sea y del tipo de cambios que desee aportar:
 
 ### Cambios menores
 
-Si está aportando actualizaciones menores porque quiere hacerlo, visite el artículo y haga clic en el vínculo **Editar** del artículo que va a la fuente de GitHub correspondiente. A continuación, utilice la interfaz de usuario de GitHub para realizar sus actualizaciones. Consulte la [Guía de colaborador para la documentación de Adobe](https://docs.adobe.com/content/help/es-es/contributor/contributor-guide/introduction.html) para obtener más información.
+Si está aportando actualizaciones menores porque quiere hacerlo, visite el artículo y haga clic en el vínculo **Editar** del artículo que va a la fuente de GitHub correspondiente. A continuación, utilice la interfaz de usuario de GitHub para realizar sus actualizaciones. Consulte la [Guía de colaborador para la documentación de Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=es) para obtener más información.
 
 Las correcciones o aclaraciones menores que envíe para la documentación y los ejemplos de código de este repositorio están sujetos a las condiciones de uso del Adobe.
 
@@ -43,7 +43,7 @@ Si es un escritor técnico, administrador de programas o desarrollador del equip
 
 Los colaboradores de la comunidad pueden utilizar la interfaz de usuario de GitHub para la edición básica o realizar importantes contribuciones.
 
-Consulte la [Guía de colaborador para la documentación de Adobe](https://docs.adobe.com/content/help/es-es/contributor/contributor-guide/introduction.html) para obtener más información.
+Consulte la [Guía de colaborador para la documentación de Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=es) para obtener más información.
 
 ## Utilizar el código desplegable para dar formato al tema
 
