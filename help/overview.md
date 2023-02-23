@@ -4,9 +4,9 @@ description: Obtenga información general rápida sobre las últimas funciones d
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: f0bb8749fd075a4fcc366d28c6606087e323a9f7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
           <strong>Versión | 2023.1.0</strong>
           <br/>
         </a>
-          <em>Fecha de la versión: febrero de 2023 </em>
+          <em>Fecha de publicación: febrero 2023 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es">Notas de la versión</a>
@@ -47,10 +47,10 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
       </a>
       <div>
         <a href="./2022/2022-10-0.md">
- <strong>Versión | 2022.10.0</strong>
- <br/>
- </a>
- <em>Fecha de versión 13 de octubre de 2022 </em>
+          <strong>Versión | 2022.10.0</strong>
+          <br/>
+        </a>
+          <em>Fecha de versión 13 de octubre de 2022</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es">Notas de la versión</a>
