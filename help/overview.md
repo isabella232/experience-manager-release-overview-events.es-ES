@@ -5,8 +5,8 @@ user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: b81d2a42145db4d00a06f1b857ce26f3da1d3ec1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '221'
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
           <strong>Versión | 2023.2.0</strong>
           <br/>
         </a>
-          <em>Fecha de versión: marzo de 2023 </em>
+          <em>Fecha de publicación: marzo 2023 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es">Notas de la versión</a>
@@ -65,7 +65,7 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
           <strong>Versión | 2022.10.0</strong>
           <br/>
         </a>
-          <em>Fecha de versión 13 de octubre de 2022</em>
+          <em>Fecha de publicación: 13 de octubre de 2022</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es">Notas de la versión</a>
@@ -80,7 +80,7 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
           <strong>Versión | 2022.8.0</strong>
           <br/>
         </a>
-          <em>Fecha de publicación  1 de septiembre de 2022 </em>
+          <em>Fecha de publicación: 1 de septiembre de 2022 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=es">Notas de la versión</a>
@@ -174,7 +174,7 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
           <strong>Versión | 2022.1.0</strong>
         <br/>
       </a>
-        <em>Publicada el jueves, 3 de febrero de 2022 </em>
+        <em>Publicada el 3 de febrero de 2022 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2022/release-notes-2022-1-0.html?lang=es">Notas de la versión</a>
